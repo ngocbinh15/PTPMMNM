@@ -1,3 +1,3 @@
-LEADER: Nguyễn Ngọc Bình
-Nguyễn Lê Thùy Linh
-Võ Chí Danh
+LEADER: Nguyễn Ngọc Bình <br>
+Nguyễn Lê Thùy Linh <br>
+Võ Chí Danh <br>
